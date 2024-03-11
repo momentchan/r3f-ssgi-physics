@@ -1,14 +1,10 @@
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## Notes
+The physics is based on [rapier.js](https://github.com/pmndrs/react-three-rapier),
+and SSGI is based on [realism-effects](https://github.com/0beqz/realism-effects/issues)
 
-``` bash
-# Install dependencies (only the first time)
-npm install
 
-# Run the local server at localhost:8080
-npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
+
+<img src='Screenshot.png' width="480px">
+
+[**Live Demo**](https://momentchan.github.io/r3f-ssgi-physics/)
